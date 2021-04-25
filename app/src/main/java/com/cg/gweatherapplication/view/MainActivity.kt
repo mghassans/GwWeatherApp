@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
     private var longi : Double = 77.590591
     lateinit var lManager: LocationManager
     var providerName=""
-    var response = ""
     var pincode = "560001"
 
 
