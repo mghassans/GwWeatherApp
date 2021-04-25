@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GWeatherApplication</string>
+    <string name="title_home">Current</string>
+    <string name="title_map">Alerts</string>
+    <string name="title_list">fragment_item_list</string>
+    <string name="title_dashboard">Hourly</string>
+    <string name="pin_code">Enter Pincode</string>
+    <string name="max_temp">Max Temp:</string>
+    <string name="min_temp">Min Temp:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date:</string>
+    <string name="update">Alert Notification feature will be available after update</string>
+    <string name="title_notifications">Daily</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
